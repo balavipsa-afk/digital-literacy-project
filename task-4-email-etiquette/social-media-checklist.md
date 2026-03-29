@@ -1,6 +1,6 @@
 # Responsible Social Media Use – Checklist
 
-| ✅ Do’s | ❌ Don’ts |
+|  Do’s |  Dont's |
 |-------|---------|
 | Use strong and unique passwords | Share personal or sensitive information publicly |
 | Verify information before sharing | Spread fake news or unverified content |
