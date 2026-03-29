@@ -41,6 +41,7 @@ This project is designed as part of my role as a **Student Digital Ambassador**.
 - Created a **Digital Literacy Awareness Quiz** using Google Forms (5 questions, includes multiple choice and short answer)  
 - **Learning:** Practicing coding improves problem-solving, while Google Workspace allows smooth collaboration and real-time feedback in academic projects.
 - Digital Literacy Awareness Quiz: https://forms.gle/8JJhCQoWoJLD4Zgd6
+- Digital Literacy Quiz Responses: https://docs.google.com/spreadsheets/d/1nu0EExbkCepwJtdxKAwpvgfoDmPnqWTFwZDX-EkB2HQ/edit?usp=sharing
 
 ---
 
